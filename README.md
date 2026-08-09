@@ -17,13 +17,12 @@ Anyone is welcome to write to me, regardless of personal background, career stag
   <a href="https://bsky.app/profile/eddytor.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" width="38" height="38" alt="Bluesky" title="Bluesky"></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/gcalpay"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" title="Hugging Face"></a>&nbsp;&nbsp;
 <!--  <a href="https://www.researchgate.net/profile/Goeran-Alpay"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="38" height="38" alt="ResearchGate" title="ResearchGate"></a>&nbsp;&nbsp; -->
- <!-- <a href="https://orcid.org/0009-0007-5772-7920"><img src="https://cdn.simpleicons.org/orcid/A6CE39" width="38" height="38" alt="ORCID" title="ORCID"></a>&nbsp;&nbsp; -->
   <a href="https://net.vdi.de/u/goeran_cem_alpay_ec24"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/VDI%20Logo%202022.svg" width="38" height="38" alt="VDI-Net" title="VDI-Net"></a>
 </p>
 
 ## About me
 
-My work focuses on chemical process simulation, thermodynamics and energy systems, particularly heat-engine modeling and energy recovery from waste heat and cryogenic sources. I also work with CFD and multiphysics simulation, scientific computing and thermodynamics-informed machine learning.
+My work focuses on chemical process simulation, thermodynamics and energy systems, including waste heat and cryogenic energy recovery. Further areas of focus include CFD and multiphysics simulation, scientific computing and thermodynamics-informed machine learning.
 
 ## Featured repository
 
@@ -33,7 +32,7 @@ My work focuses on chemical process simulation, thermodynamics and energy system
 
 ### [Carnopy](https://github.com/gcalpay/carnopy)
 
-Reproducible thermophysical data pipelines integrating property models and simulation backends, with inspection, visualization, provenance and leakage aware preparation for machine learning workflows.
+Reproducible thermophysical data pipelines integrating property models, simulation backends and validated reference data, with inspection, visualization, provenance and leakage aware preparation for physics-informed machine learning workflows.
 
 <a href="https://pypi.org/project/carnopy/"><img src="https://img.shields.io/pypi/v/carnopy.svg" alt="PyPI"></a>
 <a href="https://pypi.org/project/carnopy/"><img src="https://img.shields.io/pypi/pyversions/carnopy.svg" alt="Python versions"></a>
@@ -47,9 +46,9 @@ Reproducible thermophysical data pipelines integrating property models and simul
 
 ## Other current projects
 
-- **Pinntropy** · Thermodynamics-informed machine learning for surrogate modeling with physical constraints, exploring different ways to embed physical structure in model architectures, loss functions and optimization algorithms, with phase aware modeling and validity domain assessment *(private repo · license undecided)*
+- **Pinntropy** · Thermodynamics informed machine learning for surrogate modeling with physical constraints in model architectures, loss functions and optimization, including phase awareness and validity domain assessment. *(private repo · license undecided)*
 
-- **qSink** · Engineering decision support for industrial waste heat and cold energy recovery, currently focused on Hamburg, Germany. It covers heat pumps, local heat use, cold conversion, power generation (ORC, TFC, Kalina, TEGs etc), thermal/electrical storage and integration with heating/cooling networks and the power grid. *(private repo · license undecided)*
+- **qSink** · Engineering decision support for industrial waste heat and cold energy recovery, currently focused on Hamburg, Germany. It covers heat pumps, local heat use, cold conversion, power generation (ORC, TFC, Kalina, TEGs), thermal/electrical storage and integration with heating/cooling networks and the power grid. *(private repo · license undecided)*
 
 - **gmawFoam** · OpenFOAM development for coupled electromagnetic, thermal and fluid flow modeling of GMAW (MIG/MAG). *(private repo · GPL-3.0)*
 <!---## Education and qualifications
