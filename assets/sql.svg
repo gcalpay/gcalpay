@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="SQL">
+  <path d="M256 16l208 120v240L256 496 48 376V136z" fill="#13589e"/>
+  <path d="M48 136l208 120v240L48 376z" fill="#0f4f92"/>
+  <path d="M256 16l208 120-208 120L48 136z" fill="#165fa9"/>
+  <path d="M464 136v240L256 496V256z" fill="#4f7fb7"/>
+  <g fill="#ffffff" font-family="Arial, Helvetica, sans-serif" font-weight="700" text-anchor="middle">
+    <text x="256" y="300" font-size="150">SQL</text>
+  </g>
+</svg>
