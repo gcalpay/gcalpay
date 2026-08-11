@@ -11,8 +11,8 @@
 Anyone is welcome to write to me, regardless of personal background, career stage or age. I am happy to connect, chat and exchange ideas about engineering, research, open source software or anything else we may find interesting. I am also open to work opportunities, research collaborations and open source contributions.
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/gcalpay/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;
-<!--  <a href="https://x.com/cemgineer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"><img src="https://cdn.simpleicons.org/x/000000" width="38" height="38" alt="X" title="X"></picture></a>&nbsp;&nbsp; -->
+<!--  <a href="https://www.linkedin.com/in/gcalpay/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;-->
+  <a href="https://x.com/cemgineer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"><img src="https://cdn.simpleicons.org/x/000000" width="38" height="38" alt="X" title="X"></picture></a>&nbsp;&nbsp;
   <a href="https://bsky.app/profile/eddytor.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" width="38" height="38" alt="Bluesky" title="Bluesky"></a>&nbsp;&nbsp;
   <a href="https://huggingface.co/gcalpay"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" title="Hugging Face"></a>&nbsp;&nbsp;
 <!--  <a href="https://www.researchgate.net/profile/Goeran-Alpay"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="38" height="38" alt="ResearchGate" title="ResearchGate"></a>&nbsp;&nbsp; -->
