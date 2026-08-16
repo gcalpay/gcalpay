@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Chemical+Process+Simulation+Engineer;Thermodynamics-Informed+Machine+Learning;Heat+Engine+Modeling+and+Optimization;CFD+and+Multiphysics+Simulation;Open+Source+Scientific+Software" alt="Animated professional headline">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Chemical+Process+Simulation+Engineer;Thermodynamics-Informed+Machine+Learning;Heat+Engine+Modeling+and+Optimization;Data+Analysis+and+Visualization;CFD+and+Multiphysics+Simulation;Open+Source+Scientific+Software" alt="Animated professional headline">
 
 </div>
 
@@ -87,6 +87,7 @@ My **B.Sc. thesis** about thermoeconomic assessment of ORC for a German LNG term
 <!--  <a href="https://seaborn.pydata.org/"><img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" width="44" height="44" alt="Seaborn" title="Seaborn"></a>&nbsp;-->
   <a href="https://www.tidyverse.org/"><img src="https://raw.githubusercontent.com/tidyverse/tidyverse/main/man/figures/logo.png" width="44" height="44" alt="Tidyverse" title="Tidyverse"></a>&nbsp;
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel"><img src="https://upload.wikimedia.org/wikipedia/commons/7/73/Microsoft_Excel_2013-2019_logo.svg" width="44" height="44" alt="Microsoft Excel" title="Microsoft Excel"></a>&nbsp;
+  <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="44" height="44" alt="PostgreSQL" title="PostgreSQL"></a>&nbsp;
   <a href="https://www.paraview.org/"><img src="assets/paraview.png" height="44" alt="ParaView" title="ParaView"></a>&nbsp;
   <!--<a href="https://www.blender.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blender/blender-original.svg" width="44" height="44" alt="Blender" title="Blender"></a>&nbsp;-->
   <a href="https://www.open-mpi.org/"><img src="https://www.open-mpi.org/images/open-mpi-logo.png" width="44" height="44" alt="Open MPI" title="Open MPI"></a>
