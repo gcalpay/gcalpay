@@ -11,13 +11,13 @@
 Anyone is welcome to write to me, regardless of personal background, career stage or age. I am happy to connect, chat and exchange ideas about engineering, research, open source software or anything else we may find interesting. I am also open to work opportunities, research collaborations and open source contributions.
 
 <p align="center">
-<a href="https://bsky.app/profile/eddytor.bsky.social"><img src="https://cdn.simpleicons.org/bluesky/0285FF" width="38" height="38" alt="Bluesky" title="Bluesky"></a>&nbsp;&nbsp;
-<a href="https://www.kaggle.com/doubt42"><img src="assets/kaggle.svg" width="32" height="38" alt="Kaggle" title="Kaggle"></a>&nbsp;&nbsp;
+<a href="https://bsky.app/profile/eddytor.bsky.social"><img src="assets/bluesky.png" width="49" height="49" alt="Bluesky" title="Bluesky"></a>&nbsp;&nbsp;
+<a href="https://www.kaggle.com/doubt42"><img src="assets/kaggle.svg" width="34" height="38" alt="Kaggle" title="Kaggle"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/gcalpay/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="38" height="38" alt="LinkedIn" title="LinkedIn"></a>&nbsp;&nbsp;
-<a href="https://x.com/cemgineer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"><img src="https://cdn.simpleicons.org/x/000000" width="38" height="38" alt="X" title="X"></picture></a>&nbsp;&nbsp;
-<a href="https://huggingface.co/gcalpay"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" title="Hugging Face"></a>&nbsp;&nbsp;
+<a href="https://x.com/cemgineer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"><img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X" title="X"></picture></a>&nbsp;&nbsp;
+<!--<a href="https://huggingface.co/gcalpay"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" title="Hugging Face"></a>&nbsp;&nbsp;-->
 <!--  <a href="https://www.researchgate.net/profile/Goeran-Alpay"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="38" height="38" alt="ResearchGate" title="ResearchGate"></a>&nbsp;&nbsp; -->
-<a href="https://net.vdi.de/u/goeran_cem_alpay_ec24"><img src="https://commons.wikimedia.org/wiki/Special:Redirect/file/VDI%20Logo%202022.svg" width="38" height="38" alt="VDI-Net" title="VDI-Net"></a>
+<a href="https://net.vdi.de/u/goeran_cem_alpay_ec24"><img src="assets/vdi.png" width="55" height="55" alt="VDI-Net" title="VDI-Net"></a>
 </p>
 
 ## About me
@@ -50,7 +50,7 @@ Reproducible thermophysical data pipelines integrating property models, simulati
 
 - **qSink** · Engineering decision support for industrial waste heat and cold energy recovery, currently focused on Hamburg, Germany. It covers heat pumps, local heat use, cold conversion, power generation (ORC, TFC, Kalina, TEGs), thermal/electrical storage and integration with heating/cooling networks and the power grid. *(private repo · license undecided)*
 
-- **gmawFoam** · OpenFOAM development for coupled electromagnetic, thermal and fluid flow modeling of GMAW (MIG/MAG). *(private repo · GPL-3.0)*
+- **gmawFoam** · OpenFOAM development for coupled electromagnetic, thermal and fluid flow modeling of GMAW (MIG/MAG). *(GPL-3.0 license)*
 <!---## Formal Education
 
  **M.Eng. in Process Simulation** - Wilhelm Büchner University of Applied Sciences, Darmstadt, 2023
