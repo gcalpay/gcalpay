@@ -17,7 +17,8 @@ Anyone is welcome to write to me, regardless of personal background, career stag
 <a href="https://x.com/cemgineer"><picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF"><img src="https://cdn.simpleicons.org/x/000000" width="35" height="35" alt="X" title="X"></picture></a>&nbsp;&nbsp;
 <!--<a href="https://huggingface.co/gcalpay"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="38" height="38" alt="Hugging Face" title="Hugging Face"></a>&nbsp;&nbsp;-->
 <!--  <a href="https://www.researchgate.net/profile/Goeran-Alpay"><img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="38" height="38" alt="ResearchGate" title="ResearchGate"></a>&nbsp;&nbsp; -->
-<a href="https://net.vdi.de/u/goeran_cem_alpay_ec24"><img src="assets/vdi.png" width="55" height="55" alt="VDI-Net" title="VDI-Net"></a>
+<a href="https://net.vdi.de/u/goeran_cem_alpay_ec24"><img src="assets/vdi.png" width="54" height="54" alt="VDI-Net" title="VDI-Net"></a>&nbsp;&nbsp;
+<a href="assets/weixin_qr.jpg"><img src="assets/weixin.svg" width="36" height="36" alt="WeChat" title="WeChat"></a>&nbsp;&nbsp;
 </p>
 
 ## About me
@@ -38,19 +39,20 @@ Reproducible thermophysical data pipelines integrating property models, simulati
 <a href="https://pypi.org/project/carnopy/"><img src="https://img.shields.io/pypi/pyversions/carnopy.svg" alt="Python versions"></a>
 <a href="https://github.com/gcalpay/carnopy/actions/workflows/ci.yml"><img src="https://github.com/gcalpay/carnopy/actions/workflows/ci.yml/badge.svg" alt="Verify"></a>
 <a href="https://github.com/gcalpay/carnopy/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a>
-<a href="https://doi.org/10.5281/zenodo.21709965"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.21709965-blue.svg" alt="DOI: 10.5281/zenodo.21709965"></a>
+<a href="https://doi.org/10.5281/zenodo.22053741"><img src="https://img.shields.io/badge/DOI-10.5281%2Fzenodo.22053741-blue.svg" alt="DOI: 10.5281/zenodo.22053741"></a>
 
 </td>
 </tr>
 </table>
 
 ## Other current projects
+- **ORCAtlas** · Federated ORC literature crawler and cumulative research corpus for discovering, deduplicating and organising papers, datasets, experimental records, repositories and retrievable full-text sources for machine learning across OpenAlex, Crossref, DataCite, Zenodo, OpenAIRE, OSTI, DOE Data Explorer, Data.gov, the Geothermal Data Repository and related sources. *(private repo · license undecided)*
 
-- **Pinntropy** · Thermodynamics informed machine learning for surrogate modeling with physical constraints in model architectures, loss functions and optimization, including phase awareness and validity domain assessment. *(private repo · license undecided)*
+- **Pinntropy** · Thermodynamics-informed modeling and optimization platform for automated selection of pure working fluids and binary mixtures, cycle architecture exploration and multi-objective techno-economic analysis of thermodynamic power cycles, initially applied to ORC. Includes phase-aware surrogate modeling, CapEx/OpEx estimation, uncertainty quantification and assessment of the applicability domain. *(private research prototype · proprietary software)*
 
-- **qSink** · Engineering decision support for industrial waste heat and cold energy recovery, currently focused on Hamburg, Germany. It covers heat pumps, local heat use, cold conversion, power generation (ORC, TFC, Kalina, TEGs), thermal/electrical storage and integration with heating/cooling networks and the power grid. *(private repo · license undecided)*
+- **qSink** · Engineering decision support for industrial waste heat and cold energy recovery, initially focused on Hamburg, Germany. It covers heat upgrading, cold conversion, power generation, direct local use, thermal/electrical storage and integration with heating/cooling networks and power grid. *(parked · private repo · license undecided)*
 
-- **gmawFoam** · OpenFOAM development for coupled electromagnetic, thermal and fluid flow modeling of GMAW (MIG/MAG). *(GPL-3.0 license)*
+- **[gmawFoam](https://github.com/gcalpay/gmawFoam)** · Pre-alpha OpenFOAM solver development for coupled electromagnetic, thermal and fluid flow simulation of GMAW (MIG/MAG), including wire feeding and melting, arc plasma, shielding-gas flow, droplet transfer and weld pool dynamics. *(GPL-3.0 license)*
 <!---## Formal Education
 
  **M.Eng. in Process Simulation** - Wilhelm Büchner University of Applied Sciences, Darmstadt, 2023
