@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Chemical+Process+Simulation+Engineer;Thermodynamics-Informed+Machine+Learning;Heat+Engine+Modeling+and+Optimization;Data+Analysis+and+Visualization;CFD+and+Multiphysics+Simulation;Open+Source+Scientific+Software" alt="Animated professional headline">
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=500&size=21&duration=3200&pause=900&color=2F81F7&center=true&vCenter=true&width=900&lines=Chemical+Process+Simulation+Engineer;Heat+Engine+Modeling+and+Optimization;Data+Analysis+and+Visualization;CFD+and+Multiphysics+Simulation;Thermodynamics-Informed+Machine+Learning" alt="Animated professional headline">
 
 </div>
 
@@ -33,7 +33,7 @@ My work focuses on chemical process simulation, thermodynamics and energy system
 
 ### [Carnopy](https://github.com/gcalpay/carnopy)
 
-Reproducible thermophysical data pipelines integrating property models, simulation backends and validated reference data, with inspection, visualization, provenance and leakage aware preparation for physics-informed machine learning workflows.
+Thermophysical data workbench for generating, importing, comparing, validating and visualizing data from experiments, literature, property models and simulation backends, with leakage-aware preparation for physics-informed machine learning.
 
 <a href="https://pypi.org/project/carnopy/"><img src="https://img.shields.io/pypi/v/carnopy.svg" alt="PyPI"></a>
 <a href="https://pypi.org/project/carnopy/"><img src="https://img.shields.io/pypi/pyversions/carnopy.svg" alt="Python versions"></a>
